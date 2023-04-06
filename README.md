@@ -1,4 +1,3 @@
-# CSE 163 final project
 ## Victor Wei
 ###### Research on NBA class of 2016 Future Hall of Fame Status Prediction Model based on Rookie Season Basic and Advanced Player Statistics
 
