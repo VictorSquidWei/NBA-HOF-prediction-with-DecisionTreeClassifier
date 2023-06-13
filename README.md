@@ -14,3 +14,6 @@
 ###### The next printed is the (training set accuracy, 1996 prediction accuracy, and prediction results for class of 1996)
 ###### The fourth printed dataframe shows the basic and advanced stats for players drafted at 2016
 ###### The next printed is the (training set accuracy, prediction results for 2016 class)
+
+## Youtube Vidoe link explaning my insights
+https://youtu.be/zAQ_DJz-x3o
