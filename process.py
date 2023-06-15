@@ -1,6 +1,5 @@
 """
-Victor Wei
-CSE 163 AB
+
 A file that implements data procesing and modeling construction process of the
 final project. The purpose of this project is to eventually predict the future
 hof status of the players in the draft class 2016 from stats from the draft
