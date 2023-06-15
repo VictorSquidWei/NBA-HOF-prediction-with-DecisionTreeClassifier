@@ -1,5 +1,5 @@
 """
-A file that implements the 7 functions for the final project.
+A file that implements the functions.
 These functions involves using pandas, seaborn, and scikit-learn
 to conduct operations on basketball for the purpose of predicting the
 hof status of players based on their rookie year performance.
