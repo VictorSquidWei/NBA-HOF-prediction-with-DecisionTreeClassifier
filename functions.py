@@ -1,6 +1,4 @@
 """
-Victor Wei
-CSE 163 AB
 A file that implements the 7 functions for the final project.
 These functions involves using pandas, seaborn, and scikit-learn
 to conduct operations on basketball for the purpose of predicting the
