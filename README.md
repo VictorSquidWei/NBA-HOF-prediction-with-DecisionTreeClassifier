@@ -15,5 +15,5 @@
 ###### The fourth printed dataframe shows the basic and advanced stats for players drafted at 2016
 ###### The next printed is the (training set accuracy, prediction results for 2016 class)
 
-## Youtube video of my insights
+## Youtube video
 https://youtu.be/zAQ_DJz-x3o
